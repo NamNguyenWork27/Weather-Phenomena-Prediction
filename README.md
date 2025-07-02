@@ -4,7 +4,7 @@ This project focuses on building an intelligent system to predict various weathe
 Knowledge Distillation is a technique that allows transferring knowledge from large, computationally expensive
 models to smaller models without losing effectiveness.
 
-![knowledge_distillation](image\Knowledge_Distillation.png)
+![knowledge_distillation](image/Knowledge_Distillation.png)
 
 # Goal 
 The main goals of the project are:
